@@ -1,0 +1,6 @@
+#include <stdio.h>
+main()
+{
+printf(""(Ôo)'");    /*this is in sort of a confussed smilly code in C language*/
+return 0;
+}
