@@ -1,2 +1,2 @@
 #!/bin/bash
-chown 775 ./hello
+chown 774 ./hello
