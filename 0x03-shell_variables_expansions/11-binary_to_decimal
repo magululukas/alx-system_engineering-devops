@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(((($BINARY * 2) ** x) + (($BINARY * 2) ** x)))
+echo $(((($BINARY * 2) ** x) + (($BINARY * 2) ** (x - 1))))
